@@ -1,9 +1,6 @@
-/**
- * 
- */
-/**
- * @author Chris Francis
- *
- */
-module ABC {
+
+class ABC {
+	public static void main(String args[]) {
+		System.out.println("version 2");
+	}
 }
